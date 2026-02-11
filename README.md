@@ -1,16 +1,24 @@
-## Hi there 👋
+## 👋 Hi, I'm Onik
 
-<!--
-**fardin0045/fardin0045** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Front-End / Full Stack Developer
 
-Here are some ideas to get you started:
+💻 I love building web apps  
+🔥 Learning .NET + React  
+🌱 Always improving  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML-orange)
+![CSS](https://img.shields.io/badge/CSS-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![React](https://img.shields.io/badge/React-cyan)
+![PHP](https://img.shields.io/badge/PHP-purple)
+![.NET](https://img.shields.io/badge/.NET-violet)
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
