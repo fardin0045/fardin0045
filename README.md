@@ -21,4 +21,4 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=fardin0045&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=fardin0045&show_icons=true&theme=tokyonight)
