@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🚀 Front-End / Full Stack Developer<br><br>💻 I love building web apps  <br>🔥 Learning .NET + React  <br>🌱 Always improving  
+ 🚀 Front-End / Full Stack Developer<br><br>💻 I love building web apps  <br>🔥 Learning MERN STACK +.NET  <br>🌱 Always improving  
 
 
 ## 🌐 Socials:
