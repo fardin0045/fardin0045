@@ -72,13 +72,7 @@ Passionate about building scalable web applications and real-time experiences. I
 * TanStack Query
 * Deployment Ready
 
-### 🌐 Portfolio Website
 
-* Responsive Design
-* Dark Mode
-* Smooth Animations
-* Project Showcase
-* Modern UI
 
 ### 🛒 FreshRoots E-Commerce Platform
 
