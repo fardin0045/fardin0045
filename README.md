@@ -14,9 +14,9 @@ Passionate about building scalable web applications and real-time experiences. I
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/onik-78b702375)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:fardinonik40@gmail.com)
-[Portfolio](https://onikportfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/onik-78b702375)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fardinonik40@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-121013?logo=vercel&logoColor=white)](https://onikportfolio.vercel.app/)
 
 ---
 
