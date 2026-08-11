@@ -124,11 +124,6 @@ Software Architecture
      ↓
 Scalable Full Stack Applications
 ```
-# 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardin0045&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
