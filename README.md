@@ -2,110 +2,241 @@
 
 ### 🚀 Full Stack Developer | MERN Stack Developer | ASP.NET Learner
 
-Passionate about building scalable web applications and real-time experiences. I enjoy transforming ideas into responsive, user-friendly applications and continuously exploring modern technologies and software architecture.
+I'm a **Computer Science & Engineering graduate** passionate about building scalable, secure, and user-friendly web applications. I enjoy turning ideas into real-world products and continuously improving my skills in **full-stack development, software engineering, system design, and cloud technologies**.
 
-* 🔭 Currently building **Real-Time Applications and Full Stack Projects**
-* 🌱 Learning **MERN Stack,ASP.NET Core, C#, Advanced System Design, and Software Architecture**
-* 💬 Ask me about **React, Node.js, Express, MongoDB, REST APIs, TanStack Query, Authentication, and Real-Time Applications**
-* ⚡ Interested in **Full Stack Development, Real-Time Systems, Software Engineering, and Cloud Technologies**
-* 🎯 Goal: Become a skilled Full Stack Engineer and contribute to impactful products
+I love learning by building — from e-commerce platforms and real-time communication systems to enterprise applications and AI-powered solutions.
 
 ---
 
-## 🌐 Connect With Me
+## 🧑‍💻 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/onik-78b702375)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fardinonik40@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-121013?logo=vercel&logoColor=white)](https://onikportfolio.vercel.app/)
+* 🔭 Currently building **Full Stack & Real-Time Applications**
+* 🌱 Learning **MERN Stack, ASP.NET Core, C#, Advanced System Design & Software Architecture**
+* 💬 Ask me about **React, Node.js, Express.js, MongoDB, REST APIs, Authentication, TanStack Query & Real-Time Applications**
+* ⚡ Interested in **Full Stack Development, Software Engineering, Real-Time Systems & Cloud Technologies**
+* 🎯 Goal: Become a **skilled Full Stack Engineer** and contribute to impactful products
+* 📍 Based in **Dhaka, Bangladesh**
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-### Frontend
+### 🎨 Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,js" />
+</p>
 
-### Backend
+### ⚙️ Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge\&logo=.net\&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,cs" />
+</p>
 
-### Databases
+### 🗄️ Databases
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" />
+</p>
 
-### Tools & Technologies
+### 🔐 APIs & Technologies
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge\&logo=socketdotio\&logoColor=white)
-![TanStack\_Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge\&logo=reactquery\&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=postman,git,github,azure" />
+</p>
 
-### Languages
+* RESTful APIs
+* JWT Authentication
+* HTTP-only Cookies
+* Role-Based Authentication
+* TanStack Query
+* Socket.io
+* Stream
+* Stripe Integration
+* Cloud Deployment
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python,cs,cpp" />
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
+## 🛒 FreshRoots — Full Stack E-Commerce Platform
 
-### 🛒 FreshRoots E-Commerce Platform
+A modern MERN-based e-commerce platform designed for a complete online shopping experience.
 
-* Role-Based Authentication
-* Product Management
-* Order Management
-* Responsive UI
-* Secure APIs
+### ✨ Key Features
 
-###Crown Cineplex – Online Movie Ticket Booking 	
-Tech Stack: MERN Stack (MongoDB, Express.js, React.js, Node.js), Tailwind CSS
-* Developed a full-stack Movie ticket booking platform allowing users to see Movies that are playing On Cinema hall , Buy Ticket , and  Stripe payment integration .
-* Implemented user authentication, Session handling with RESTful APIs and MongoDB database integration.
-* Designed a responsive and user-friendly UI optimized for smooth uses across devices.
+* 🔐 Role-Based Authentication
+* 👤 User Account Management
+* 📦 Product Management
+* 🛍️ Shopping & Order Management
+* 💳 Secure Payment Integration
+* 📧 Email Verification
+* 📱 Fully Responsive UI
+* 🔒 Secure REST APIs
 
-### 📹 Real-Time Chat & Video Calling App
+### 🧰 Tech Stack
 
-* JWT Authentication
-* Friend System
-* Real-Time Messaging
-* Video Calling with Stream
-* Socket.io Integration
-* 32 Themes
-* Protected Routes
-* TanStack Query
-* Deployment Ready
+**React.js · Node.js · Express.js · MongoDB · Tailwind CSS · REST API**
+
+---
+
+## 🎬 Crown Cineplex — Online Movie Ticket Booking
+
+A full-stack movie ticket booking platform that allows users to explore currently playing movies, purchase tickets, and complete payments online.
+
+### ✨ Key Features
+
+* 🎥 Browse currently playing movies
+* 🎟️ Online movie ticket booking
+* 💳 Stripe payment integration
+* 🔐 User authentication
+* 🔑 Session handling
+* 🔌 RESTful API architecture
+* 🗄️ MongoDB database integration
+* 📱 Responsive user interface
+
+### 🧰 Tech Stack
+
+**MongoDB · Express.js · React.js · Node.js · Tailwind CSS · Stripe**
+
+---
+
+## 📹 Real-Time Chat & Video Calling App
+
+A real-time communication platform combining messaging, social features, and video calling.
+
+### ✨ Key Features
+
+* 🔐 JWT Authentication
+* 👥 Friend System
+* 💬 Real-Time Messaging
+* 📹 Video Calling with Stream
+* ⚡ Socket.io Integration
+* 🎨 32 UI Themes
+* 🛡️ Protected Routes
+* 🔄 TanStack Query
+* 🚀 Deployment Ready
+
+### 🧰 Tech Stack
+
+**React.js · Node.js · Express.js · MongoDB · Socket.io · Stream · TanStack Query**
+
+---
+
+## 🏢 BDComplaintSystem
+
+An enterprise-style complaint management system built using the **ASP.NET Core MVC** architecture.
+
+### ✨ Key Features
+
+* Complaint Management
+* User Authentication
+* Role-Based Access
+* Database-Driven Architecture
+* CRUD Operations
+* Entity Framework Core
+* SQL Server / Azure SQL
+* Cloud Deployment
+
+### 🧰 Tech Stack
+
+**ASP.NET Core MVC · .NET 8 · C# · Entity Framework Core · SQL Server · Azure SQL**
+
+---
+
+# 🧠 What I'm Currently Learning
+
+```text
+Full Stack Development
+        ↓
+Advanced Backend Architecture
+        ↓
+System Design
+        ↓
+Cloud Technologies
+        ↓
+Scalable Software Engineering
+```
+
+I'm continuously working on improving my understanding of:
+
+* 🏗️ Software Architecture
+* 📐 System Design
+* 🔐 Application Security
+* ⚡ Performance Optimization
+* ☁️ Cloud & Deployment
+* 🔄 Distributed & Real-Time Systems
+* 🤖 AI-Powered Applications
 
 ---
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=fardin0045\&show_icons=true\&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=fardin0045\&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fardin0045\&layout=compact\&theme=tokyonight)
-
----
-
-### 🔝 Top Contributed Repositories
-
-![](https://github-contributor-stats.vercel.app/api?username=fardin0045\&limit=5\&theme=tokyonight\&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=fardin0045\&label=Profile%20Views\&color=0e75b6\&style=flat)
+# 📈 Most Used Languages
 
-### ⭐ "Code. Learn. Build. Improve. Repeat."
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# ⚡ Beyond Code
+
+When I'm not coding, I'm usually:
+
+* 📚 Learning new technologies
+* 🧩 Exploring system design
+* 🚀 Building side projects
+* 🔍 Experimenting with new development tools
+* 💡 Turning ideas into working products
+
+---
+
+<h3 align="center">
+  🚀 Code. Learn. Build. Improve. Repeat.
+</h3>
+
+<p align="center">
+  <i>Building today. Learning every day. Engineering for tomorrow.</i>
+</p>
