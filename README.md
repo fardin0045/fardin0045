@@ -5,7 +5,7 @@
 I’m a passionate **Full Stack Developer** who enjoys building scalable web applications, real-time experiences, and responsive user interfaces.
 
 I love turning ideas into practical products while continuously exploring **modern technologies, software engineering, and system architecture**.
-
+Portfolio: https://onik-portfolio.vercel.app/
 ---
 
 ## 👨‍💻 About Me
